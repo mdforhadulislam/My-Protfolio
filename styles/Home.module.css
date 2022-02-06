@@ -79,11 +79,11 @@
   width: 50px;
   height: 6px;
   border-radius: 20px;
-  background-color: #ffc107;
+  background-color: #ffb400;
   display: inline-block;
 }
 .home__container__main__about__text .title .title__main {
-  color: #ffc107 !important;
+  color: #ffb400 !important;
   display: inline-block;
   font-size: 55px;
   font-weight: 900;
@@ -116,7 +116,7 @@
   font-weight: 700;
   padding: 15px 10px 15px 20px;
   border-radius: 27px;
-  border: 1px solid #ffc107;
+  border: 1px solid #ffb400;
   outline: none;
   background-color: #111;
   display: flex;
@@ -129,7 +129,7 @@
 .home__container__main__about__text .about__more__info button:hover span {
   width: 260px;
   height: 50px;
-  background-color: #ffc107;
+  background-color: #ffb400;
   border-radius: 27px;
   justify-content: flex-end;
   padding-right: 20px;
@@ -142,7 +142,7 @@
 .home__container__main__about__text .about__more__info button span {
   width: 50px;
   height: 50px;
-  background-color: #ffc107;
+  background-color: #ffb400;
   position: absolute;
   top: -2px;
   right: 0px;
@@ -156,7 +156,7 @@
 .home__container__main__about__text .about__more__info button span:hover {
   width: 260px;
   height: 50px;
-  background-color: #ffc107;
+  background-color: #ffb400;
   border-radius: 27px;
   justify-content: flex-end;
   padding-right: 20px;
