@@ -1,7 +1,9 @@
-import React from 'react';
+import React from 'react'
 
-function ProtfolioContainer() {
-    return <div>Protfolio</div>;
+function Protfolio() {
+  return (
+    <div>Protfolio</div>
+  )
 }
 
-export default ProtfolioContainer;
+export default Protfolio

@@ -1,7 +1,9 @@
-import React from 'react';
+import React from 'react'
 
-function HomeContainer() {
-    return <div>Home</div>;
+function Home() {
+  return (
+    <div>Home</div>
+  )
 }
 
-export default HomeContainer;
+export default Home
