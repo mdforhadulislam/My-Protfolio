@@ -14,7 +14,7 @@ const introdata = {
   },
   description: "I’m Full Stack Devloper",
   your_img_url:
-    "https://scontent.fdac41-1.fna.fbcdn.net/v/t39.30808-6/289827678_584284019917493_10495195856259621_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeHgVOwwsXiUhrBZns9sCihZVjravxvOk8NWOtq_G86TwwLlb412JDqPFXDurHT2AOk8BI7zUMYIO9PuKjhquf-N&_nc_ohc=qoARLf001SAAX9FbTPa&_nc_ht=scontent.fdac41-1.fna&oh=00_AT-m5eb5cCduwkhALn9ZYh5JnXi5zDJCRvz-mJmHAo0UtA&oe=62FE31BF",
+    "https://raw.githubusercontent.com/mdforhadulislam/My-Protfolio/main/src/assets/images/IMG_20220816_172123.jpg",
 };
 
 const dataabout = {
@@ -117,7 +117,7 @@ const dataportfolio = [
   },
 
   {
-    img: "https://raw.githubusercontent.com/mdforhadulislam/e-commerce/main/Screenshot%202022-08-14%20225432.png?token=GHSAT0AAAAAABXQB4GFM5O7Q7KM6YJUBIVQYXZFMAQ",
+    img: "https://raw.githubusercontent.com/mdforhadulislam/e-commerce/main/Screenshot%202022-08-14%20225432.png?token=GHSAT0AAAAAABXQB4GFH7CXTHNTHPZSTKTIYX4JQTQ",
     desctiption: "This is E-commarce based applications",
     link: "https://e-commarce-demo.netlify.app/html/home",
   },
