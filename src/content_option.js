@@ -14,7 +14,7 @@ const introdata = {
   },
   description: "I’m Full Stack Devloper",
   your_img_url:
-    "https://raw.githubusercontent.com/mdforhadulislam/My-Protfolio/main/src/assets/images/IMG_20220816_172123.jpg",
+    "./IMG-20230201-WA0006.jpg",
 };
 
 const dataabout = {
